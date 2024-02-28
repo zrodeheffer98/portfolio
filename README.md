@@ -6,4 +6,4 @@ Outside of work I have many personal projects that I have completed to help my u
 
 This repository is meant to showcase skills in proper data handling and data analysis and share projects that I am passionate about. This repository also helps keep me accountable and helps track my growth in data analysis. 
 
-Above you can see my first polished project "Predictive Shot Model" which utilizes machine learning to predict the total shots an NHL player will have in a game.
+Above, you can see my first polished project "Predictive Shot Model" which utilizes machine learning to predict the total shots an NHL player will have in a game.
